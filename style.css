@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(57, 62, 70);
+}
+h1{
+    font-size:8rem;
+    font-family: Lobster,cursive;
+    color: rgb(78, 204, 163);
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color: rgb(78, 204, 163);
+    font-family: "Indie Flower", cursive;
+}
+@media (min-width: 768px)
+{ 
+.p1{
+    width:50%;
+    float:left;
+}
+.p2{
+    width:50%;
+    float:left;
+}
+}
+.dice{
+    text-align: center;
+    height:10rem;
+}
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
